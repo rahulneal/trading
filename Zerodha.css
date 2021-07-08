@@ -1,0 +1,31 @@
+.upstoxz{
+    list-style-type: none;
+    margin: 0;
+    font-weight: 600;
+    font-style: inherit;
+    padding: 0px;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    background-color: white;
+    
+}
+.uppz{
+    margin-left: 8px;
+}
+
+.buyz{
+    margin-left: 55px;
+
+    
+    color: green;
+}
+.SELLz{margin-left: 20px;
+color:red;}
+
+.safed{
+    margin-left: 25px;
+    margin-top: 15px;
+    
+}

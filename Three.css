@@ -1,0 +1,21 @@
+.three{
+    font-weight: 600;
+    font-style: inherit;
+    padding: 0px;
+    border-radius: 2px;
+    border:0.5px solid lightgrey;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    background-color: white;     
+  }
+  .o{
+      margin-left: 20px;
+      color: black;
+
+  }
+
+  .m{ margin-left: 110px;
+      color: blue;
+  }

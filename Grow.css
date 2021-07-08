@@ -1,0 +1,35 @@
+.upstoxy{
+    list-style-type: none;
+    margin : 0;
+    font-weight: 500;
+    font-style: inherit;
+    padding: 0px;
+    
+    border-top: 0.5px solid grey;
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    background-color: white;
+    
+    
+}
+.uppy{
+    margin-left: 8px;
+    
+}
+
+.buyy{
+    margin-left: 64px;
+    
+    color: green;
+}
+
+.SELLy{
+    margin-left: 20px;
+    color: red;
+}
+.safed{
+    margin-left: 25px;
+    margin-top: 15px;
+    
+}

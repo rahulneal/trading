@@ -1,0 +1,34 @@
+.upstox{
+    list-style-type: none;
+    margin: 0;
+    font-weight: 600;
+    font-style: inherit;
+    padding: 0px;
+    border-bottom:1px solid grey;
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    background-color: white;
+    
+    
+}
+.kala{
+    margin-left: 25px;
+    margin-top: 15px;
+    
+}
+.upp{
+    margin-left: 8px;
+    
+}
+
+.buy{
+    margin-left: 70px;
+    
+    color: green;
+}
+
+.SELL{
+    margin-left: 20px;
+    color: red;
+}

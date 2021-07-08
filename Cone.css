@@ -1,0 +1,41 @@
+.c1{
+    font-weight: 600;
+    font-style: inherit;
+    padding: 0px 40px;
+    
+    
+    border-top:0.5px solid lightgrey;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    background-color: white;     
+  }
+  .indi{
+      margin-left: 30px;
+      color: black;
+
+  }
+
+  .val{ margin-left: 14px;
+      color: gray;
+  }
+  .indi2{
+    margin-left: 80px;
+    color: black;
+
+}
+
+.val2{ margin-left: 160px;
+    color: gray;
+}
+.indi3{
+    margin-left: 80px;
+    color: black;
+
+}
+
+.val3{
+     margin-left: 160px;
+    color: gray;
+}

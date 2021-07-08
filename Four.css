@@ -1,0 +1,44 @@
+.four{
+    margin: 10px;
+    font-weight: 600;
+    font-style: inherit;
+    padding: 0px;
+    border-radius: 2px;
+    border: black;    
+    border-top: 1px solid grey;
+    border:0.5px solid lightgrey;
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    background-color: white;     
+  }
+  .o{
+      margin-left: 20px;
+      color: black;
+
+  }
+
+  .m{ margin-left: 100px;
+      color: lightblue;
+  }
+  .r{
+    position: absolute;
+    right: 0;
+    margin-top: 18px;
+    margin-right: 20px;
+    
+    border:blue;
+    border:0.5px solid blue;
+    padding: 1px 15px;
+    border-radius: 0.2em;
+    
+    color: blue;
+    }
+    .r:hover{background-color: blue;
+        color: white;}
+          
+          .r:active {
+            background-color: blue;
+            
+            transform: translateY(4px);
+          }

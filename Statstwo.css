@@ -1,0 +1,18 @@
+.statstwo {
+    width: 930px;
+    
+    background-color:white;
+    height: 180px;
+    
+    
+  }
+  .list ul{
+    list-style-type: none;
+    margin: 0;
+    font-weight: 400;
+    font-style: inherit;
+    padding: 0px;
+    border: none;
+    
+    flex-direction: row;
+  }
